@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # This entrypoint file to be used in development. Start by reading README.md
 import password_cracker
 from unittest import main
